@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #228CDB;
     margin: 0;
     padding: 0;
     display: flex;
@@ -14,7 +14,7 @@ body {
 }
 
 .today-forecast {
-    background-color: #f5f5f5;
+    background-color: #2D5690;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
@@ -30,18 +30,21 @@ body {
     align-items: center;
     justify-content: center;
     margin-bottom: 20px;
+    color: #170A1C;
 }
 
 #search-bar {
     margin-right: 10px;
     padding: 10px;
     font-size: 16px;
+    color: #170A1C;
 }
 
 #search-button {
     padding: 10px;
     font-size: 16px;
     cursor: pointer;
+    color: #413C58;
 }
 
 #forecast-container {
@@ -53,6 +56,6 @@ body {
     flex: 1;
     padding: 10px;
     border-radius: 5px;
-    background-color: #e0e0e0;
+    background-color: #D1F5FF;
     margin: 5px;
 }
